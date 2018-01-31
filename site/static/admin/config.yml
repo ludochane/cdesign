@@ -1,0 +1,32 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: "static/img/uploads"
+public_folder: "/img/uploads"
+
+collections:
+  - name: "singleton" # Used in routes, e.g., /admin/collections/blog
+    label: "Singleton" # Used in the UI
+    folder: "_posts/singleton" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "singleton" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Sous-titre", name: "subtitle", widget: "string"}
+      - {label: "Réalisations titre", name: "realisation_title", widget: "string"}
+      - {label: "Réalisations sous-titre", name: "realisation_subtitle", widget: "string"}
+      - {label: "Equipe titre", name: "team_title", widget: "string"}
+      - {label: "Equipe sous-titre", name: "team_subtitle", widget: "string"}
+      - {label: "Contact titre", name: "contact_title", widget: "string"}
+      - {label: "Contact sous-titre", name: "contact_subtitle", widget: "string"}
+  - name: "realisation"
+    label: "Réalisations"
+    folder: "_posts/realisation"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date de réalisation", name: "date", widget: "datetime"}
+      - {label: "Image principale", name: "thumbnail", widget: "image"}
+      - {label: "Description", name: "body", widget: "markdown"}
