@@ -1,15 +1,17 @@
 <div id="fh5co-gallery">
-  {{ range .Site.Params.work.item }}
-  <a href="{{ .img | absURL }}" class="fh5co-item image-popup" style="background-image: url({{ .img | absURL }})">
+  {{ with .Site.GetPage "section" "realisation" }}
+  {{ range .Data.Pages }}
+  <a href="{{ .Params.thumbnail | absURL }}" class="fh5co-item image-popup" style="background-image: url({{ .Params.thumbnail | absURL }})">
     <div class="fh5co-overlay"></div>
     <div class="fh5co-copy">
       <div class="fh5co-copy-inner">
-      	<h2>{{ .title }}</h2>
-      	{{ if isset . "subtitle" }}
-      	<h3>{{ .subtitle }}</h3>
+      	<h2>{{ .Params.title }}</h2>
+      	{{ if isset .Params "subtitle" }}
+      	<h3>{{ .Params.subtitle }}</h3>
       	{{ end }}
       </div>
     </div>
   </a>
+  {{ end }}
   {{ end }}
 </div> <!-- END fh5co-gallery -->

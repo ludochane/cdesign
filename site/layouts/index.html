@@ -14,7 +14,7 @@
     <div class="fh5co-page">
       <div id="fh5co-container">
 
-	{{ partial "hero.html" . }}
+	{{ partial "hero.html" .Params }}
 
 	{{ partial "nav.html" . }}
 
@@ -27,7 +27,7 @@
 	{{ end }}
 
 	{{ if .Site.Params.work.enable }}
-	{{ partial "gallery.html" .}}
+	{{ partial "gallery.html" . }}
 	{{ end }}
 
 	{{ if .Site.Params.team.enable }}
