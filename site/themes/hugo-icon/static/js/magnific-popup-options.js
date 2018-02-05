@@ -1,13 +1,17 @@
 $(document).ready(function() {
    // MagnificPopup
 	var magnifPopup = function() {
-		$('.image-popup').magnificPopup({
-			type: 'image',
-			removalDelay: 300,
-			mainClass: 'mfp-with-zoom',
-			gallery:{
-				enabled:true
-			}
+		$('.image-popup').each(function() {
+			var hrefs = $(this).next().find('.images-popup').map(function(i, e) {
+				return { src: $(e).attr('href') };
+			}).get();
+			$(this).magnificPopup({
+		    items: hrefs,
+		    gallery: {
+		      enabled: true
+		    },
+		    type: 'image' // this is default type
+			});
 		});
 	};
 
@@ -23,10 +27,7 @@ $(document).ready(function() {
     });
 	};
 
-	
-
-
-	// Call the functions 
+	// Call the functions
 	magnifPopup();
 	magnifVideo();
 

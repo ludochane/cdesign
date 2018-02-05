@@ -1,7 +1,9 @@
 <div id="fh5co-gallery">
   {{ with .Site.GetPage "section" "realisation" }}
   {{ range .Data.Pages }}
-  <a href="{{ .Params.thumbnail | absURL }}" class="fh5co-item image-popup" style="background-image: url({{ .Params.thumbnail | absURL }})">
+  <a href="{{ .Params.thumbnail | absURL }}"
+    class="fh5co-item image-popup"
+    style="background-image: url({{ .Params.thumbnail | absURL }})">
     <div class="fh5co-overlay"></div>
     <div class="fh5co-copy">
       <div class="fh5co-copy-inner">
@@ -12,6 +14,11 @@
       </div>
     </div>
   </a>
+  <div>
+    {{ range .Params.images }}
+    <a href="{{ . | absURL }}" class="images-popup"></a>
+    {{ end }}
+  </div>
   {{ end }}
   {{ end }}
 </div> <!-- END fh5co-gallery -->
