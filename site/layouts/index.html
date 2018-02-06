@@ -35,11 +35,11 @@
 	{{ end }}
 
 	{{ if .Site.Params.contact.enable }}
-	{{ partial "contact-form.html" .}}
+	{{ partial "contact-form.html" .Params }}
 	{{ end }}
 
 	{{ if .Site.Params.footer.enable }}
-	{{ partial "footer.html" .}}
+	{{ partial "footer.html" .Params }}
 	{{ end }}
 
       </div>

@@ -1,10 +1,8 @@
 <div id="fh5co-contact" data-section="contact">
   <div class="container">
     <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-      {{ with .Site.Params.contact }}
-      <h2>{{ .title }}</h2>
-      <p>{{ .message | markdownify }}</p>
-      {{ end }}
+      <h2>{{ .contact_title }}</h2>
+      <p>{{ .contact_subtitle | markdownify }}</p>
     </div>
     <form name="contact-form" netlify-honeypot="_gotcha" action="thank-you" netlify>
       <div class="row">
@@ -19,7 +17,7 @@
 	<div class="col-md-6">
 	  <div class="form-group">
 	    <input type="email" class="form-control" id="inputEmail" placeholder="Votre email" name="_replyto">
-	    <small id="emailHelp" class="form-text text-muted">Nous ne partagerons jamais vos informations.</small>
+	    <small id="emailHelp" class="form-text text-muted">{{ .contact_partage_info }}</small>
 	  </div>
 	</div>
 	<div class="col-md-12">
