@@ -76,46 +76,6 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [params.work]
   enable = true
 
-  [[params.work.item]]
-    title = "Titre"
-    subtitle = "sous-titre"
-    img = "img/portfolio/concrete.png"
-
-  [[params.work.item]]
-    title = "Titre"
-    subtitle = "sous-titre"
-    img = "img/portfolio/salon2.png"
-
-  [[params.work.item]]
-    title = "Titre"
-    subtitle = "sous-titre"
-    img = "img/portfolio/chic.png"
-
-  [[params.work.item]]
-    title = "Titre"
-    subtitle = "sous-titre"
-    img = "img/portfolio/escalier.png"
-
-  [[params.work.item]]
-    title = "Titre"
-    subtitle = "sous-titre"
-    img = "img/portfolio/renovation.png"
-
-  [[params.work.item]]
-    title = "Titre"
-    subtitle = "sous-titre"
-    img = "img/portfolio/salon.png"
-
-  [[params.work.item]]
-    title = "Titre"
-    subtitle = "sous-titre"
-    img = "img/portfolio/salon2.png"
-
-  [[params.work.item]]
-    title = "Titre"
-    subtitle = "sous-titre"
-    img = "img/portfolio/concrete.png"
-
 # Team section
 [params.team]
   enable = true
