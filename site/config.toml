@@ -20,7 +20,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 # Navigation section
 [params.nav]
   mission = "Présentation"
-  services = "Réalisations"
+  work = "Réalisations"
   team = "L'équipe"
   contact = "Contact"
   # Include logo instead if HOME:
@@ -39,7 +39,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
   enable = false
   video = false
   vidlink = ""
-  title = "Nos Réalisations"
+  title = "Nos Services"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]

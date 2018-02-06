@@ -762,6 +762,7 @@ p {
   clear: both;
   float: left;
   width: 100%;
+  padding-top: 7em;
 }
 #fh5co-gallery .fh5co-item {
   display: block;
