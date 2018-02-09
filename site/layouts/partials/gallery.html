@@ -1,12 +1,12 @@
 <div id="fh5co-gallery" data-section="work">
-  {{ with .Site.GetPage "section" "realisation" }}
   <div class="container">
     <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-      <h2>{{ .Title }}</h2>
-      <p>{{ .Description | markdownify }}</p>
+      <h2>{{ .Params.realisation_title }}</h2>
+      <p>{{ .Params.realisation_subtitle }}</p>
     </div>
   </div>
 
+  {{ with .Site.GetPage "section" "realisation" }}
   {{ range .Data.Pages }}
   <a href="{{ .Params.thumbnail | absURL }}"
     class="fh5co-item image-popup"
@@ -23,7 +23,7 @@
   </a>
   <div>
     {{ range .Params.images }}
-    <a href="{{ . | absURL }}" class="images-popup"></a>
+    <a href="{{ .url | absURL }}" class="images-popup"></a>
     {{ end }}
   </div>
   {{ end }}
