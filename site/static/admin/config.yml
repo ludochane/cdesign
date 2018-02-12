@@ -24,8 +24,8 @@ collections:
           - {label: "Contact sous-titre", name: "contact_subtitle", widget: "string"}
           - {label: "Contact partage info", name: "contact_partage_info", widget: "string"}
           - {label: "Lien Facebook", name: "footer_facebook", widget: "string"}
-          - {label: "Lien instagram", name: "footer_instagram, widget: "string"}
-          - {label: "Adresse mail", name: "footer_email, widget: "string"}
+          - {label: "Lien instagram", name: "footer_instagram", widget: "string"}
+          - {label: "Adresse mail", name: "footer_email", widget: "string"}
   - name: "realisation"
     label: "Réalisations"
     folder: "site/content/realisation"
