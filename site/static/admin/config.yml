@@ -15,6 +15,7 @@ collections:
         fields: # The fields for each document, usually in front matter
           - {label: "Titre", name: "title", widget: "string"}
           - {label: "Sous-titre", name: "subtitle", widget: "string"}
+          - {label: "Image en fond", name: "background_img", widget: "image"}
           - {label: "Réalisations titre", name: "realisation_title", widget: "string"}
           - {label: "Réalisations sous-titre", name: "realisation_subtitle", widget: "string"}
           - {label: "Equipe titre", name: "team_title", widget: "string"}
@@ -41,3 +42,26 @@ collections:
         widget: list
         fields:
           - {label: "Source", name: "url", widget: "image"}
+  - name: "team"
+    label: "Equipe"
+    folder: "site/content/team"
+    create: true
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom", name: "name", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Photo", name: "photo", widget: "image"}
+      - {label: "Facebook", name: "facebook", widget: "string"}
+      - {label: "Instagram", name: "instagram", widget: "string"}
+      - {label: "LinkedIn", name: "linkedin", widget: "string"}
+  - name: "mission"
+    label: "Missions"
+    folder: "site/content/mission"
+    create: false
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom", name: "name", widget: "string"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}

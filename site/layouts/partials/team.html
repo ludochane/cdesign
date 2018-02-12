@@ -9,7 +9,7 @@
     {{ range .Data.Pages }}
     <div class="col-md-6">
       <div class="person">
-      	<img src="{{ .Params.img | absURL }}" alt="" class="img-responsive">
+      	<img src="{{ .Params.photo | absURL }}" alt="" class="img-responsive">
       	<h3>{{ .Params.name }}</h3>
       	<h4>{{ .Params.position }}</h4>
       	<p>{{ .Params.description | markdownify }}</p>
