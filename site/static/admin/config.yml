@@ -36,7 +36,6 @@ collections:
       - {label: "Sous-titre", name: "subtitle", widget: "string"}
       - {label: "Date de réalisation", name: "date", widget: "datetime"}
       - {label: "Image principale", name: "thumbnail", widget: "image"}
-      - {label: "Autres images", name: "images", widget: "image"}
       - label: "Autres images"
         name: "images"
         widget: list
@@ -64,4 +63,4 @@ collections:
       - {label: "Nom", name: "name", widget: "string"}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
