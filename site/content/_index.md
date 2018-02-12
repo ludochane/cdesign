@@ -1,7 +1,7 @@
 ---
 title: "CDesign"
 subtitle: "Architecture d'intérieur - Construction - Maitrise d'oeuvre"
-img: "images/hero_bg.jpg"
+img: "/img/uploads/background.jpg"
 realisation_title: "Nos réalisations"
 realisation_subtitle: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 team_title: "Notre équipe"
