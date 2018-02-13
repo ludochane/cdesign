@@ -912,29 +912,32 @@ p {
 #fh5co-footer p:last-child {
   margin-bottom: 0;
 }
-#fh5co-footer .fh5co-social {
+.fh5co-social {
   float: right;
   text-align: left;
+  vertical-align: middle;
+  padding: 20px 0 5px 0;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-footer .fh5co-social {
+  .fh5co-social {
     float: left;
     text-align: left;
   }
 }
-#fh5co-footer .fh5co-social li {
+
+.fh5co-social li {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
   *display: inline;
 }
-#fh5co-footer .fh5co-social li a {
+.fh5co-social li a {
   padding: 0 10px;
 }
-#fh5co-footer .fh5co-social li a i {
+.fh5co-social li a i {
   font-size: 18px;
 }
-#fh5co-footer .fh5co-social li a:hover, #fh5co-footer .fh5co-social li a:focus, #fh5co-footer .fh5co-social li a:active {
+.fh5co-social li a:hover, .fh5co-social li a:focus, .fh5co-social li a:active {
   text-decoration: none;
   outline: none;
 }

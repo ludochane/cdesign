@@ -4,25 +4,6 @@
       <div class="col-md-6">
         {{ .footer_note | markdownify }}
       </div>
-      <div class="col-md-6">
-      	<ul class="fh5co-social">
-          {{ if isset . "footer_email" }}
-          <li><a href="{{ .footer_email }}"><i class="icon-envelope"></i></a></li>
-          {{ end }}
-      	  {{ if isset . "footer_twitter" }}
-      	  <li><a href="{{ .footer_twitter }}"><i class="icon-twitter"></i></a></li>
-      	  {{ end }}
-      	  {{ if isset . "footer_facebook" }}
-      	  <li><a href="{{ .footer_facebook }}"><i class="icon-facebook"></i></a></li>
-      	  {{ end }}
-      	  {{ if isset . "footer_linkedin" }}
-      	  <li><a href="{{ .footer_linkedin }}"><i class="icon-linkedin"></i></a></li>
-      	  {{ end }}
-      	  {{ if isset . "footer_instagram" }}
-      	  <li><a href="{{ .footer_instagram }}"><i class="icon-instagram"></i></a></li>
-      	  {{ end }}
-      	</ul>
-      </div>
     </div>
   </div>
 </div>
