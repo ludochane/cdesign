@@ -1,5 +1,5 @@
 ---
-title: CDesign
+title: C'Design
 subtitle: Architecture d'intérieur - Construction - Maitrise d'oeuvre
 background_img: /img/uploads/dsc07946.jpg
 realisation_title: Nos réalisations
