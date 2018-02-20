@@ -1,6 +1,6 @@
 ---
 title: Rénovation d'un appartement de 45m2
-subtitle: Rénovation complète-PARIS 13
+subtitle: Rénovation complète-Paris 13e
 date: 2018-02-20T13:59:02.702Z
 thumbnail: /img/uploads/01-salon.jpg
 images:
