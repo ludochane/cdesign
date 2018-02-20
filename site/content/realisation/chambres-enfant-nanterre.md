@@ -1,5 +1,5 @@
 ---
-title: 'Chambre enfant '
+title: 'Réalisation d''une chambre enfant '
 subtitle: Nanterre
 date: 2017-10-17T16:41:51.000Z
 thumbnail: /img/uploads/chambre-enfant-nanterre/Photo03.jpg
