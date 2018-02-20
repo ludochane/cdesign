@@ -1,5 +1,5 @@
 ---
-title: 'Rénovation Appt 41m2 '
+title: 'Rénovation d''un appartement de 41m2 '
 subtitle: Paris 12e
 date: 2017-10-17T16:41:51.000Z
 thumbnail: /img/uploads/paris-12/Photo01.jpg
