@@ -10,9 +10,9 @@ team_title: Notre équipe
 team_subtitle: Agence C'design
 contact_title: Nous contacter
 contact_subtitle: >-
-  Vous pouvez nous envoyer un message, nous précisant le type de projet, le
-  budget, les surfaces et des photos pour qu'on puisse répondre aux mieux à vos
-  besoins. 
+  Vous pouvez nous envoyer un message en nous précisant le type de projet, votre
+  budget, la surface à rénover ou à bâtir et des photos pour que l'on puisse
+  répondre aux mieux à vos besoins. 
 contact_partage_info: Nous ne partagerons jamais vos informations.
 footer_facebook: 'https://www.facebook.com/cdesignarchi'
 footer_instagram: 'https://www.instagram.com/cdesign.architecte/'
