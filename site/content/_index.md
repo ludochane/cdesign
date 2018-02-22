@@ -4,8 +4,8 @@ subtitle: Architecture d'intérieur - Construction - Maitrise d'oeuvre
 background_img: /img/uploads/dsc07946.jpg
 realisation_title: Nos réalisations
 realisation_subtitle: >-
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque
-  ipsam iste provident quo ipsam iste provident.
+  Nous sommes à l'écoute de vos envies et besoins. Nous réalisons des projets
+  sur mesure et à vos goûts ! 
 team_title: Notre équipe
 team_subtitle: Agence C'design
 contact_title: Nous contacter
