@@ -11,9 +11,12 @@ description: >-
   (dossier de consultation des Entreprises)…</div><div>Nous vous proposons une
   équipe de qualité pour la réalisation de vos travaux… </div><div>Nous suivons
   votre chantier …</div><div>Nous vous assistons lors de la réception de votre
-  chantier…</div> <ul class='checked'><li>Free HTML5 Templates</li><li>Free
-  Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a
-  href='#' class='btn btn-primary btn-outline fh5co-content-nav'
+  chantier…</div> 
+
+
+  <ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap
+  Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#'
+  class='btn btn-primary btn-outline fh5co-content-nav'
   data-nav-section='contact'>Nous contacter</a></p>
 ---
 
