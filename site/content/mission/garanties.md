@@ -3,7 +3,7 @@ name: Maitrise d'Oeuvre
 title: Maitrise d'Oeuvre en bâtiment
 subtitle: Notre mission
 description: >-
-  <div>Nous réalisons la conception de votre habitation …</div>
+  <p><div>Nous réalisons la conception de votre habitation …</div>
 
 
   <div>Nous vous proposons plusieurs esquisses…</div>
@@ -22,7 +22,7 @@ description: >-
   <div>Nous suivons votre chantier…</div>
 
 
-  <div>Nous vous assistons lors de la réception de votre chantier…</div>
+  <div>Nous vous assistons lors de la réception de votre chantier…</div></p>
 
 
   <p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav'
