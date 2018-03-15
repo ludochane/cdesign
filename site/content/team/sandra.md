@@ -9,7 +9,7 @@ description: >-
   en France, un an plus tard, et décide de rejoindre Johan. Son sens de
   l'esthétisme et sa sensibilité apporteront une touche originale et soignée à
   votre projet.
-photo: /img/uploads/profil s.jpg
+photo: /img/uploads/profil sb.jpg
 facebook: '#'
 instagram: '#'
 linkedin: '#'
