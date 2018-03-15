@@ -1,6 +1,6 @@
 ---
 name: Maitrise d'Oeuvre
-title: Maitrise d'Oeuvre
+title: Maitrise d'Oeuvre en bâtiment
 subtitle: Notre mission
 description: >-
   <div>Nous réalisons la conception de votre habitation …</div>
