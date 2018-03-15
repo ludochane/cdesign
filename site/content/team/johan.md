@@ -7,7 +7,7 @@ description: >-
   conception à la réalisation de votre appartement ou maison, en mettant
   l'accent sur le fonctionnel et l'esthétisme.  Ses connaissances techniques du
   bâtiment sont un atout pour mieux vous conseiller tout au long de votre
-  projet.
+  projet.                                                                                                                                                                
 photo: /img/uploads/img_0162b.jpg
 facebook: '#'
 instagram: '#'
