@@ -8,7 +8,8 @@ description: >-
   plans de votre projet…</div><div>Nous réalisons ensemble un concept
   …</div><div>Nous vous proposons plusieurs esquisses…</div><div>Nous vous
   accompagnons dans le choix des matériaux …</div><div>Nous composons un DCE
-  (dossier de consultation des Entreprises)…</div><div>Nous vous proposons une
+  (dossier de consultation des Entreprises) nécessaire à la réalisation des
+  devis par les entreprises du bâtiment…</div><div>Nous vous proposons une
   équipe de qualité pour la réalisation de vos travaux… </div><div>Nous suivons
   votre chantier …</div><div>Nous vous assistons lors de la réception de votre
   chantier…</div> 
