@@ -15,9 +15,7 @@ description: >-
   chantier…</div> 
 
 
-  <ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap
-  Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#'
-  class='btn btn-primary btn-outline fh5co-content-nav'
+  <p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav'
   data-nav-section='contact'>Nous contacter</a></p>
 ---
 
