@@ -352,6 +352,7 @@ p {
   -moz-flex-wrap: wrap;
   background: #E8ECF1;
   width: 100%;
+  padding-top: 7em;
 }
 #fh5co-about .fh5co-2col {
   width: 50%;
@@ -362,7 +363,6 @@ p {
   }
 }
 #fh5co-about .fh5co-2col-inner {
-  padding: 5em 0;
   width: 585px;
   margin-right: auto;
   margin-left: auto;
@@ -676,10 +676,10 @@ p {
   margin-bottom: 30px;
 }
 .fh5co-heading h2 {
-  font-size: 14px;
+  font-family: chocolatines;
+  font-size: 28px;
   letter-spacing: 2px;
   font-weight: 700;
-  text-transform: uppercase;
   color: #4d4d4d;
   padding-bottom: 20px;
   margin-bottom: 20px;
@@ -1190,7 +1190,7 @@ p {
   background: url(../images/Preloader_2.gif) center no-repeat #fff;
 }
 
-h1.title {
+.chocolatines {
   font-family: chocolatines;
 }
 
