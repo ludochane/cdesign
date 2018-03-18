@@ -1,8 +1,8 @@
 <div id="fh5co-about" data-section="mission">
   {{ with .Site.GetPage "section" "mission" }}
-  <div class="fh5co-2col">
+  <div class="fh5co-2col" style="width: 72%!important">
 
-    <div class="fh5co-2col-inner left">
+    <div class="fh5co-2col-inner left" style="width: 890px!important">
 
       <div class="fh5co-tabs-container">
       	<ul class="fh5co-tabs fh5co-three">
@@ -29,7 +29,7 @@
 
   </div>
 
-  <div class="fh5co-2col fh5co-text">
+  <!--<div class="fh5co-2col fh5co-text">
     <div class="fh5co-grid">
       {{ if .Site.Params.mission.images.enable }}
       {{ range .Site.Params.mission.images.list }}
@@ -38,6 +38,6 @@
       {{ end }}
 
     </div>
-  </div>
+  </div>-->
   {{ end }}
 </div> <!-- END fh5co-about -->

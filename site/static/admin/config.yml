@@ -64,3 +64,4 @@ collections:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Ordre", name: "weight", widget: "number"}

@@ -27,5 +27,5 @@ description: >-
 
   <p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav'
   data-nav-section='contact'>Nous contacter</a></p>
+weight: 2
 ---
-
