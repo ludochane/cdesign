@@ -6,11 +6,6 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'chocolatines';
-  src: url("../fonts/Chocolatines.ttf");
-}
-
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-size: 18px;
@@ -262,14 +257,14 @@ p {
   vertical-align: middle;
   float: left;
   line-height: 0;
-  font-family: chocolatines;
 }
 .fh5co-main-nav .fh5co-menu-1 a {
   padding: 35px 0;
   margin-right: 30px;
   color: #ccc;
+  text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 24px;
+  font-size: 13px;
   font-weight: 400;
   display: -moz-inline-stack;
   display: inline-block;
@@ -676,10 +671,10 @@ p {
   margin-bottom: 30px;
 }
 .fh5co-heading h2 {
-  font-family: chocolatines;
-  font-size: 28px;
+  font-size: 14px;
   letter-spacing: 2px;
   font-weight: 700;
+  text-transform: uppercase;
   color: #4d4d4d;
   padding-bottom: 20px;
   margin-bottom: 20px;
@@ -1188,10 +1183,6 @@ p {
   height: 100%;
   z-index: 9999;
   background: url(../images/Preloader_2.gif) center no-repeat #fff;
-}
-
-.chocolatines {
-  font-family: chocolatines;
 }
 
 /*# sourceMappingURL=style.css.map */
