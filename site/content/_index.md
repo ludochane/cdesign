@@ -2,6 +2,7 @@
 title: C'Design
 subtitle: Architecture d'intérieur - Construction - Maitrise d'oeuvre
 background_img: /img/uploads/dsc07946.jpg
+logo: /img/uploads/Logo-sans-fond.png
 presentation_title: Présentation
 realisation_title: Nos réalisations
 realisation_subtitle: >-

@@ -16,6 +16,7 @@ collections:
           - {label: "Titre", name: "title", widget: "string"}
           - {label: "Sous-titre", name: "subtitle", widget: "string"}
           - {label: "Image en fond", name: "background_img", widget: "image"}
+          - {label: "Logo", name: "logo", widget: "image"}
           - {label: "Présentation titre", name: "presentation_title", widget: "string"}
           - {label: "Réalisations titre", name: "realisation_title", widget: "string"}
           - {label: "Réalisations sous-titre", name: "realisation_subtitle", widget: "string"}
