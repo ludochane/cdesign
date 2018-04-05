@@ -1185,4 +1185,10 @@ p {
   background: url(../images/Preloader_2.gif) center no-repeat #fff;
 }
 
+@media screen and (max-width: 450px) {
+  img.logo-cdesign {
+    width: 100%;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
