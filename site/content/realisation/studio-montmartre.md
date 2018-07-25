@@ -10,6 +10,4 @@ images:
   - url: /img/uploads/dsc08819.jpg
   - url: /img/uploads/dsc08798.jpg
   - url: /img/uploads/dsc08841.jpg
-  - {}
 ---
-
