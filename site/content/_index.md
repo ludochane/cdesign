@@ -1,7 +1,7 @@
 ---
 title: C'Design
 subtitle: Architecture d'intérieur - Construction - Maitrise d'oeuvre
-background_img: /img/uploads/dsc07946.jpg
+background_img: /img/uploads/16-passerelle.jpg
 logo: /img/uploads/Logo-sans-fond.png
 presentation_title: Présentation
 realisation_title: Nos réalisations
@@ -20,3 +20,4 @@ footer_facebook: 'https://www.facebook.com/cdesignarchi'
 footer_instagram: 'https://www.instagram.com/cdesign.architecte/'
 footer_email: 'mailto:contact@cdesign-architecte.fr'
 ---
+
