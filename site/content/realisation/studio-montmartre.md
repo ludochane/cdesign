@@ -17,5 +17,6 @@ images:
   - url: /img/uploads/15.jpg
   - url: /img/uploads/14.jpg
   - url: /img/uploads/13.jpg
+  - url: /img/uploads/11-chambre.jpg
 ---
 
