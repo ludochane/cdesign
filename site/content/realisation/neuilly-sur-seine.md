@@ -1,7 +1,7 @@
 ---
-title: 'Rénovation d''une cuisine et salle de bain '
+title: Rénovation d'une salle d'eau et cuisine
 subtitle: Neuilly sur Seine
-date: 2017-10-17T16:41:51.000Z
+date: Invalid date
 thumbnail: /img/uploads/neuilly-sur-seine/SDB02.jpg
 images:
   - url: /img/uploads/neuilly-sur-seine/SDB01.jpg
