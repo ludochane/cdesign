@@ -1,7 +1,7 @@
 ---
 title: Studio Montmartre
 subtitle: Rénovation complète
-date: '2018-07-12T22:54:44+02:00'
+date: Invalid date
 thumbnail: /img/uploads/dsc08768.jpg
 images:
   - url: /img/uploads/01-sejour.jpg
