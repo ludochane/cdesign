@@ -1,7 +1,7 @@
 ---
 title: Rénovation d'un appartement de 36m2
 subtitle: Bois Colombes
-date: 2017-10-17T16:41:51.000Z
+date: Invalid date
 thumbnail: /img/uploads/bois-colombes/Photo01.jpg
 images:
   - url: /img/uploads/bois-colombes/Photo01.jpg
