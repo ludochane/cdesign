@@ -1,7 +1,7 @@
 ---
 title: Studio Montmartre
 subtitle: Rénovation complète
-date: Invalid date
+date: 2018-07-12T22:54:44+02:00
 thumbnail: /img/uploads/dsc08768.jpg
 images:
   - url: /img/uploads/01-sejour.jpg
@@ -19,4 +19,3 @@ images:
   - url: /img/uploads/13.jpg
   - url: /img/uploads/11-chambre.jpg
 ---
-

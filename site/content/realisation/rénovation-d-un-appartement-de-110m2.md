@@ -1,7 +1,7 @@
 ---
 title: Rénovation d'un appartement de 110m2
 subtitle: Paris 16e
-date: Invalid date
+date: 2018-08-20T13:59:02.702Z
 thumbnail: /img/uploads/04-espace-repas.jpg
 images:
   - url: /img/uploads/00.jpg
@@ -21,4 +21,3 @@ images:
   - url: /img/uploads/15-cuisine-paris-16.jpg
   - url: /img/uploads/16-cuisine-paris16.jpg
 ---
-

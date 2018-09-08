@@ -1,7 +1,7 @@
 ---
 title: Rénovation d'une chambre d'enfants
 subtitle: Optimiser et gagner de la place par des mobiliers sur mesure
-date: Invalid date
+date: 2018-02-20T11:17:02.614Z
 thumbnail: /img/uploads/img_0059.jpg
 images:
   - url: /img/uploads/img_0060.jpg
@@ -19,4 +19,3 @@ images:
   - url: /img/uploads/14-chambre enfant.jpg
   - url: /img/uploads/15-chambre enfant.jpg
 ---
-
